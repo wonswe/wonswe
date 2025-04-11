@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 - 🐧 Project 1 [Cosmetics Landing Page](https://wonswe.github.io/aesop-landing-page/)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript & Python**
-
 - 🐧 Project 2 [Etch-A-Sketch](https://wonswe.github.io/etch-a-sketch-color/)
 
 - 🐧 Project 3 [RGB Color Generator](https://wonswe.github.io/rgb-color-generator/)
+  
+- 🌱 I’m currently learning **HTML, CSS, JavaScript & Python**
 
 - 🌷 Also working on **Data Structures & Algorithms**
 
