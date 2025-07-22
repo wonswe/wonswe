@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">hi - my name is juwon</h1>
-<h3 align="center">Self-Taught Software Engineer</h3>
+<h3 align="center">full-stack software engineer</h3>
+
+- ⚡ Fun fact **I love penguins!**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wonswe&label=Profile%20views&color=0e75b6&style=flat" alt="wonswe" /> </p>
 
