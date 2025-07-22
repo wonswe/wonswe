@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">hi - i'm juwon</h1>
 <h3 align="center">full-stack software engineer</h3>
-<h2 align="center">i love penguins!</h2>
+<h4 align="center">i love penguins</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wonswe&label=Profile%20views&color=0e75b6&style=flat" alt="wonswe" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=wonswe&label=Profile%20views&color=0e75b6&style=flat" alt="wonswe" /> </p>
 
 
 - 🐧 Project 1 [Mock Portfolio](https://wonswe.github.io/dc_portfolio/)
