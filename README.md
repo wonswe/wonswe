@@ -21,16 +21,15 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wonswe&label=Profile%20views&color=0e75b6&style=flat" alt="wonswe" /> </p>
 
+🐧 Project 1 [Mock Portfolio](https://wonswe.github.io/dc_portfolio/)
 
-- 🐧 Project 1 [Mock Portfolio](https://wonswe.github.io/dc_portfolio/)
+🐧 Project 2 [Etch-A-Sketch](https://wonswe.github.io/etch-a-sketch-color/)
 
-- 🐧 Project 2 [Etch-A-Sketch](https://wonswe.github.io/etch-a-sketch-color/)
+🐧 Project 3 [Calculator](https://wonswe.github.io/calculator/)
 
-- 🐧 Project 3 [Calculator](https://wonswe.github.io/calculator/)
+🐧 Project 3 [RGB Color Generator](https://wonswe.github.io/rgb-color-generator/)
 
-- 🐧 Project 3 [RGB Color Generator](https://wonswe.github.io/rgb-color-generator/)
-
-- 🐧 Project 4 [Cosmetics Landing Page](https://wonswe.github.io/aesop-landing-page/)
+🐧 Project 4 [Cosmetics Landing Page](https://wonswe.github.io/aesop-landing-page/)
 
 <!--  
 - 🌱 I’m currently learning **HTML, CSS, JavaScript & Python**
