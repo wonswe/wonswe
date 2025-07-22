@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">full-stack software engineer</h3>
 <h4 align="center">i love penguins</h2>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=wonswe&label=Profile%20views&color=0e75b6&style=flat" alt="wonswe" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=wonswe&label=Profile%20views&color=0e75b6&style=flat" alt="wonswe" /> </p>
 
 
 - 🐧 Project 1 [Mock Portfolio](https://wonswe.github.io/dc_portfolio/)
