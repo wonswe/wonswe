@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">juwon</h1>
-<h3 align="center">software engineer</h3>
+<!-- <h3 align="center">software engineer</h3> -->
 <h4 align="center">i love penguins</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wonswe&label=Profile%20views&color=0e75b6&style=flat" alt="wonswe" /> </p>
